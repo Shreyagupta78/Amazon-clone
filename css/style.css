@@ -33,6 +33,11 @@ nav {
     color: #fff;
     font-size: 14px;
 }
+
+.amazon-logo {
+    margin-right: 1rem;
+}
+
 .nav-search {
 flex: 1;
 display: flex;
